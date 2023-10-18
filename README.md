@@ -8,7 +8,7 @@ src フォルダをUnityで開きます。
 
 ![結果画像2](https://github.com/Iketerumanato/ComingHome/assets/74332407/2c5f070f-504a-4154-b40d-ad390d9a9721)
 
-![結果画像3](https://github.com/Iketerumanato/ComingHome/assets/74332407/9764db1e-2112-43b6-a766-d2dd90cff373)
+![結果画像3](https://github.com/Iketerumanato/ComingHome/assets/74332407/8014438b-a94f-4b05-b8dd-8f223b78fe7e)
 
 ![結果画像](https://github.com/Iketerumanato/ComingHome/assets/74332407/de031532-c092-4735-8c47-e43011d66afa)
 
@@ -17,8 +17,7 @@ src フォルダをUnityで開きます。
 ## 自分なりに変更した点
 -ノイズを追加して雪山を表現
 -３つ目の実行結果については計算の正規化がうまくできませんでした。
-
-
+-↑<10/18>の授業内にてshadergraphの修正を行いました。
 
 ## 進め方
 
